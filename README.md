@@ -1,0 +1,1 @@
+# RVIZ configuration file
